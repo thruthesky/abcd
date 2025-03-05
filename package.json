@@ -2,6 +2,7 @@
   "name": "abcd",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thruthesky.github.io/abcd",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -35,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9"
   }
 }
